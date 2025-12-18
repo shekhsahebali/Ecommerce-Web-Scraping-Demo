@@ -1,4 +1,4 @@
-# Daraz-Scraping
+# Ecommerce-Web-Scraping-Demo(Daraz)
 A web scraping project designed to extract product data from Daraz (an e-commerce platform). The script automates the collection of essential product information such as product names, prices, ratings, reviews, etc.
 
 ## Recommended IDE Setup
