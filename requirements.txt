@@ -2,3 +2,4 @@ requests
 pillow
 selenium
 beautifulsoup4
+pandas

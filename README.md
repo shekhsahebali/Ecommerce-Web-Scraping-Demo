@@ -24,6 +24,7 @@ for more info [https://www.chromium.org/getting-involved/download-chromium/](htt
 pillow
 selenium
 beautifulsoup4
+pandas
 ```
 ## Project Setup
 - Clone the repo
