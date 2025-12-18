@@ -52,3 +52,11 @@ pip3 install -r requirements.txt
 Done!!
 
 
+## ⚠️ Legal Disclaimer
+
+This project is for educational purposes only.
+The scripts are not intended to be used on Daraz or any website that prohibits automated data extraction.
+Users are solely responsible for complying with website Terms of Service, robots.txt, and applicable laws.
+The author does not encourage scraping copyrighted or restricted content.
+
+
